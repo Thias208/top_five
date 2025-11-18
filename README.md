@@ -1,4 +1,5 @@
 Name: Matthias Kozusko
+AI was used for guidance and some suggestions for updates to make.
 
 # Top Five
 
